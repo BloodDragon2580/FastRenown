@@ -2,7 +2,7 @@
 ## Title:|cffd6266cFastRenown|r
 ## Notes: Adds a Renown / Journeys minimap button.
 ## Author: BloodDragon2580
-## Version: 1.1
+## Version: 1.2
 ## IconTexture: Interface\AddOns\FastRenown\Media\Texture\logo
 ## SavedVariables: FRB
 
